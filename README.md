@@ -1,12 +1,12 @@
 # My Fabulous Recipe
 
-This recipe for **cereal and milk** has been passed down my family for months. [here](www.example.com/coolcereals)
+This recipe for **cereal and milk** has been passed down my family for months.
 
 ## Ingredients
 
-    1. cereal (you can find cool cereals [here](www.example.com/coolcereals)
-    2. Milk
-    3. Sugar
+1. cereal (you can find cool cereals [here](www.example.com/coolcereals))
+2. Milk
+3. Sugar
 
 ## Directions
 
